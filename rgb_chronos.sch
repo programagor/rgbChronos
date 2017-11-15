@@ -204,30 +204,30 @@
 </class>
 </classes>
 <parts>
-<part name="U$1" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$2" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$3" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$4" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$5" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$6" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$7" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$8" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$9" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$10" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$11" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$12" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$13" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$14" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$15" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$16" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$17" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$18" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$19" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$20" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$21" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$22" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$23" library="pmg-library" deviceset="LED3_ARGB" device=""/>
-<part name="U$24" library="pmg-library" deviceset="LED3_ARGB" device=""/>
+<part name="U$1" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$2" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$3" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$4" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$5" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$6" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$7" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$8" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$9" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$10" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$11" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$12" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$13" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$14" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$15" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$16" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$17" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$18" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$19" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$20" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$21" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$22" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$23" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
+<part name="U$24" library="pmg-library" deviceset="LED3_ARGB" device="" value="ASMB-MTB0-0A3A2"/>
 </parts>
 <sheets>
 <sheet>
